@@ -16,4 +16,4 @@ Currently supported:
 The application is created using Livecode 9.0.1 (https://livecode.org/)
 
 ### Credits
-Application Icon designed by Sandor (https://dribbble.com/sandor source: https://dribbble.com/shots/2955640-START-Computer-Free-PSD)
+Application Icon designed by Sandor (https://dribbble.com/sandor, source: https://dribbble.com/shots/2955640-START-Computer-Free-PSD)
