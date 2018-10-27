@@ -11,6 +11,8 @@ Currently supported:
 - MacOS
 - UWP
 
+Available for MacOS & Windows: https://github.com/rootdevelop/IconGenerator/releases/tag/1.0.0
+
 
 ### Development
 The application is created using Livecode 9.0.1 (https://livecode.org/)
